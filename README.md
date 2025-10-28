@@ -1,6 +1,6 @@
 # Melodify - Aplikasi Streaming Musik (UTS Mobile Programming)
 
-Ini adalah proyek Ujian Tengah Semester (UTS) untuk mata kuliah Mobile Programming. Proyek ini bertujuan untuk merancang dan mengimplementasikan antarmuka (GUI) sebuah aplikasi *streaming* musik menggunakan Flutter, dengan fokus pada *layout*, *widget*, dan navigasi[cite: 9].
+Ini adalah proyek Ujian Tengah Semester (UTS) untuk mata kuliah Mobile Programming. Proyek ini bertujuan untuk merancang dan mengimplementasikan antarmuka (GUI) sebuah aplikasi *streaming* musik menggunakan Flutter, dengan fokus pada *layout*, *widget*, dan navigasi.
 
 ## Tema dan Tujuan Aplikasi.
 
