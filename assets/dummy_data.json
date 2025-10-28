@@ -1,0 +1,10 @@
+{
+  "new_releases": [
+    {"id": "nr1", "title": "Album Senja", "artist": "Musisi Indie", "imageUrl": "https://picsum.photos/seed/album1/200"},
+    {"id": "nr2", "title": "Future Funk", "artist": "DJ Elektronik", "imageUrl": "https://picsum.photos/seed/album2/200"}
+  ],
+  "popular_today": [
+    {"id": "p1", "title": "Melodi Malam", "artist": "Solois Pop", "imageUrl": "https://picsum.photos/seed/album3/200"},
+    {"id": "p2", "title": "Rock Gempita", "artist": "Band Rock", "imageUrl": "https://picsum.photos/seed/album4/200"}
+  ]
+}
